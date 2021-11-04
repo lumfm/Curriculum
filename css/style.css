@@ -1,0 +1,52 @@
+.fondo-batman{
+    background-color:#E5E5E5;
+    text-align: center;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    line-height: 16,94px;
+    text-transform: uppercase;
+}
+
+ul {
+    font-family:'Times New Roman';
+}
+.negrita {
+    font-weight: bold;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+.footer {
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#pad-foot{
+    padding-right: 26px;
+}
+
+.font-zen {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.link-center {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    text-align: center;    
+}

@@ -1,21 +1,23 @@
 .fondo-batman{
     background-color:#E5E5E5;
+    background-image: url('../img/dino.jpg');
+    background-position: top;
     text-align: center;
 }
 
 h1{
-    background-color: #C4C4C4;
-    color: #005677;
-    font-family: 'Times New Roman';
+    background-color: #E66023;
+    color: #301933;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 35px;
     text-transform: uppercase;
     text-align: center;
 }
 
 h3{
-    background-color: #C4C4C4;
-    color: #005677;
-    font-family: 'Times New Roman';
+    background-color: #E66023;
+    color: #301933;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 20px;
     line-height: 16,94px;
     text-transform: uppercase;
@@ -33,8 +35,8 @@ ul {
 }
 
 .footer {
-    background-color: #005677;
-    color: #FFFFFF;
+    background-color: #E66023;
+    color: #301933;
     text-align: center;
 }
 
